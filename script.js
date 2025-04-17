@@ -4,9 +4,7 @@ const submitBtn = document.getElementById('submit-btn');
 const resultDiv = document.getElementById('result');
 
 
-const secretCode = 'Shreeyali'; // Replace with your secret code
-
-const secretCode = 'pankh'; // Replace with your secret code
+const secretCode = 'Shreeyali'; 
 
 const nextPageUrl = 'main.html'; // Replace with the URL of the new page
 
